@@ -1,8 +1,3 @@
-
-# Teste Attornatus
-
-Esse projeto é um desafio para um teste da empresa Attornatus.
-
 # Qualidade de código
 
 Durante a implementação de uma nova funcionalidade de software solicitada, quais critérios você avalia e implementa para garantia de qualidade de software?
